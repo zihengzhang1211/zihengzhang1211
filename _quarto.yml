@@ -6,12 +6,12 @@ website:
     left:
       - text: Home
         href: index.qmd
-      # - text: Research
-      #   href: research.qmd
-      # - text: Experience
-      #   href: experience.qmd
-      # - text: Coursework
-      #   href: coursework.qmd
+      - text: Research
+        href: research.qmd
+      - text: Experience
+        href: experience.qmd
+      - text: Coursework
+        href: coursework.qmd
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/ziheng-zhang-202b812b1/

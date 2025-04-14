@@ -1,6 +1,6 @@
 ---
 about:
-  template: jolla
+  template: solana
   id: about-block
   image: "img/about.jpg"
   links:
