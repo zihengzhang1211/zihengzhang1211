@@ -1,11 +1,43 @@
 ---
-title: "zihengzhang1211.github.io"
+about:
+  template: trestles
+  id: about-block
+  image: "img/about.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ziheng-zhang-202b812b1/
+    - icon: envelope
+      text: Email
+      href: "zihengz1211@g.ucla.edu"
+    # - icon: file
+    #   text: CV
+    #   href: https://jacenai.github.io/jiachenai/cv.html
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {#about-block}
+:::
 
-```{r}
-1 + 1
-```
+
+# About Me
+
+I'm a UCLA graduate student pursuing my MS in Biostatistics at the [Fielding School of Public Health](https://ph.ucla.edu/), with a research focus on Bayesian methods and their applications in neuroimaging. My work combines dynamic functional connectivity analysis from resting-state fMRI data with advanced statistical tools, including Gaussian graphical models and causal mediation analysis, to study the brain mechanisms underlying neurodegenerative diseases such as frontotemporal dementia (FTD).
+
+I'm passionate about mathematical and statistical methods for Bayesian modeling and brain connectivity analysis to push the boundaries of computational neuroscience and brain-computer interfaces, and to contribute to the future of diagnosis and treatment in neurodegenerative diseases.
+
+
+# Research Interests
+
+
+
+
+# Let's Connect
+
+<!-- Feel free to explore my [CV](cv.qmd) or reach out via: -->
+
+Feel free to explore my CV or reach out via:
+
+-   **Email:** [zihengz1211\@ucla.edu](mailto:zihengz1211@g.ucla.edu)
+-   **LinkedIn:** [Ziheng Zhang](https://www.linkedin.com/in/ziheng-zhang-202b812b1/)
+
