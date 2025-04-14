@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![Ziheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zihengzhang1211)](https://github.com/anuraghazra/github-readme-stats)
+[![Ziheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zihengzhang1211&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zihengzhang1211&layout=compact)
 <!--
 **zihengzhang1211/zihengzhang1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
