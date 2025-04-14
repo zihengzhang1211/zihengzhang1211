@@ -1,13 +1,24 @@
-/* css styles */
 .navbar {
-  background-color: #ff0000 !important;
+  background-color: #e53935 !important;
 }
 
+/* 🔗 导航栏文字颜色：白色 */
 .navbar .nav-link,
 .navbar-brand {
   color: #ffffff !important;
 }
 
+/* 🔍 导航栏 hover 效果：浅红 */
 .navbar .nav-link:hover {
-  color: #ffe6e6 !important;
+  color: #ffb3b3 !important;
+}
+
+/* 🔗 页面中所有普通超链接颜色（例如 index.qmd 中的文字链接） */
+a {
+  color: #d32f2f !important;  /* 深红链接 */
+}
+
+/* 🔍 鼠标悬停时变亮红 */
+a:hover {
+  color: #ff5252 !important;
 }

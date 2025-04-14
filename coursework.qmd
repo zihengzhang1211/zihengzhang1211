@@ -1,18 +1,58 @@
 ## Selected Coursework
 
-### Biostatistics M215 - Survival Analysis | Winter 2025  
-- [\[ GitHub repo \]](https://github.com/zihengzhang1211/biostat-m215-hw) View assignments and course projects
-- [\[ Final Project \]](file/BIOSTAT_M215_Proj.pdf) Impact of Dietary Patterns on Postprandial
+**Biostatistics M215 - Survival Analysis** | Winter 2025
+
+- [\[GitHub repo\]](https://github.com/zihengzhang1211/biostat-m215-hw) Assignments and course projects
+
+- [\[Final Project\]](file/BIOSTAT_M215_Proj.pdf) Impact of Dietary Patterns on Postprandial
 Hyperglycemia
 
-### Biostatistics M232 - Statistical Analysis of Incomplete Data | Winter 2025  
-- [\[ GitHub repo \]](https://github.com/zihengzhang1211/biostat-m232-hw) View assignments and course projects
-- [\[ Final Project \]](file/BIOSTST_M232_Final_Project.pdf) Analyzing the Impact of Lead Exposure on Children's Neurological and Psychological Outcomes with Missing Data
 
-### Statistics M254 - Statistical Methods in Computational Biology [\[ lecture recordings \]](https://www.youtube.com/playlist?list=PLAYxx7zX5F1PieIIeSFc7asuKWRYm6nGy) | Winter 2025  
-- [\[ GitHub repo \]](https://github.com/zihengzhang1211/stat-m254-hw) View assignments and course projects
 
-### Biostatistics M236 - Longitudinal Data | Fall 2024
-- [\[ GitHub repo \]](https://github.com/zihengzhang1211/biostat-m236-hw) View assignments and course projects
-- [\[ Final Project \]](file/Biostat_236_FDAP.pdf) Longitudinal Study of Solanezumab's Effect on Memory Decline in Preclinical Alzheimer's
+**Biostatistics M232 - Statistical Analysis of Incomplete Data** | Winter 2025  
+
+- [\[GitHub repo\]](https://github.com/zihengzhang1211/biostat-m232-hw) Assignments and course projects
+
+- [\[Final Project\]](file/BIOSTST_M232_Final_Project.pdf) Analyzing the Impact of Lead Exposure on Children's Neurological and Psychological Outcomes with Missing Data
+
+
+**Statistics M254 - Statistical Methods in Computational Biology** [\[lecture recordings\]](https://www.youtube.com/playlist?list=PLAYxx7zX5F1PieIIeSFc7asuKWRYm6nGy) | Winter 2025  
+
+- [\[GitHub repo\]](https://github.com/zihengzhang1211/stat-m254-hw) Assignments and course projects
+
+
+
+**Biostatistics M236 - Longitudinal Data** | Fall 2024
+
+- [\[GitHub repo\]](https://github.com/zihengzhang1211/biostat-m236-hw) Assignments and course projects
+
+- [\[Final Project\]](file/Biostat_236_FDAP.pdf) Longitudinal Study of Solanezumab's Effect on Memory Decline in Preclinical Alzheimer's
+
+
+
+**Biostatistics 200C - Methods in Biostatistics C** [\[course website\]](https://ucla-biostat-200c.github.io/2024spring/schedule/schedule.html) | Spring 2024
+
+- [\[GitHub repo\]](https://github.com/zihengzhang1211/biostat-200c-hw) Assignments and course projects
+
+
+
+**Biostatistics 200B - Methods in Biostatistics B** | Winter 2024
+
+- [\[GitHub repo\]](https://github.com/zihengzhang1211/biostat-200b-hw) Assignments and course projects
+
+- [\[Poster\]](file/200B_poster.pdf) Assessing Key Factors Associated with Depression before Adjuvant Therapy in Women with Breast Cancer
+
+
+
+**Biostatistics 203B - Introduction to Data Science in R** [\[course website\]](https://ucla-biostat-203b.github.io/2024winter/schedule/schedule-lec1.html)| Winter 2024
+
+- [\[GitHub repo\]](https://github.com/zihengzhang1211/biostat-203b-2024-winter) Assignments and course projects
+
+
+
+
+**Biostatistics 203A - Introduction to Data Management and Statistical Computing** | Fall 2023
+
+- [\[Report\]](file/Midterm_Project (Group3).pdf) Diet and Lifestyle: A Statistical Examination of Their Ties to Obesity
+
 

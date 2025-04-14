@@ -45,7 +45,7 @@ I'm passionate about mathematical and statistical methods for Bayesian modeling 
 
 # Let's Connect
 
-Feel free to explore my <a href="file/Ziheng_CV.pdf" style="font-weight: bold;">CV in PDF</a> or reach out via:
+Feel free to explore my <a href="file/Ziheng_CV.pdf" style="font-weight: bold;">CV</a> or reach out via:
 
 -   **Email:** [zihengz1211\@ucla.edu](mailto:zihengz1211@g.ucla.edu)
 -   **LinkedIn:** [Ziheng Zhang](https://www.linkedin.com/in/ziheng-zhang-202b812b1/)

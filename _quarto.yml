@@ -23,7 +23,7 @@ website:
     search: true
 
   page-footer:
-    center: "© 2025 Ziheng Zhang"
+    right: "© 2025 Ziheng Zhang"
 project:
   type: website
   output-dir: docs
@@ -39,7 +39,7 @@ execute:
 
 format:
   html:
-    theme: cosmo
+    theme: default
     css: styles.css  
     fontsize: 1em
     toc: true
