@@ -9,9 +9,9 @@ I’m a UCLA graduate student exploring the exciting fields of biostatistics, Ba
 -   Email: zihengz1211\@ucla.edu
 -   [LinkedIn](https://www.linkedin.com/in/ziheng-zhang-202b812b1/)
 
-```{=html}
+
 <!--
 [![Ziheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zihengzhang1211&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zihengzhang1211&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 -->
-```
+
