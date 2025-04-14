@@ -39,7 +39,7 @@ execute:
 
 format:
   html:
-    theme: simplex
+    theme: vapor
     css: styles.css  
     fontsize: 1em
     toc: true
