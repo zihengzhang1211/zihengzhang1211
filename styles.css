@@ -1,14 +1,13 @@
 /* css styles */
 .navbar {
-  background-color: #e53935 !important;
+  background-color: #ff0000 !important;
 }
-
 
 .navbar .nav-link,
 .navbar-brand {
-  color: #fff !important;
+  color: #ffffff !important;
 }
 
 .navbar .nav-link:hover {
-  color: #ffb3b3 !important;
+  color: #ffe6e6 !important;
 }

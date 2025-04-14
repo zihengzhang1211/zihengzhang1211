@@ -1,0 +1,18 @@
+## Selected Coursework
+
+### Biostatistics M215 - Survival Analysis | Winter 2025  
+- [\[ GitHub repo \]](https://github.com/zihengzhang1211/biostat-m215-hw) View assignments and course projects
+- [\[ Final Project \]](file/BIOSTAT_M215_Proj.pdf) Impact of Dietary Patterns on Postprandial
+Hyperglycemia
+
+### Biostatistics M232 - Statistical Analysis of Incomplete Data | Winter 2025  
+- [\[ GitHub repo \]](https://github.com/zihengzhang1211/biostat-m232-hw) View assignments and course projects
+- [\[ Final Project \]](file/BIOSTST_M232_Final_Project.pdf) Analyzing the Impact of Lead Exposure on Children's Neurological and Psychological Outcomes with Missing Data
+
+### Statistics M254 - Statistical Methods in Computational Biology [\[ lecture recordings \]](https://www.youtube.com/playlist?list=PLAYxx7zX5F1PieIIeSFc7asuKWRYm6nGy) | Winter 2025  
+- [\[ GitHub repo \]](https://github.com/zihengzhang1211/stat-m254-hw) View assignments and course projects
+
+### Biostatistics M236 - Longitudinal Data | Fall 2024
+- [\[ GitHub repo \]](https://github.com/zihengzhang1211/biostat-m236-hw) View assignments and course projects
+- [\[ Final Project \]](file/Biostat_236_FDAP.pdf) Longitudinal Study of Solanezumab's Effect on Memory Decline in Preclinical Alzheimer's
+

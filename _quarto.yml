@@ -39,7 +39,7 @@ execute:
 
 format:
   html:
-    theme: vapor
+    theme: cosmo
     css: styles.css  
     fontsize: 1em
     toc: true
