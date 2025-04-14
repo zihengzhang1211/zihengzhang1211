@@ -1,20 +1,53 @@
+website:
+  title: "Ziheng Zhang"
+  description: "Research in biostatistics, neuroimaging, Bayesian modeling, and brain connectivity."
+  
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      # - text: Research
+      #   href: research.qmd
+      # - text: Experience
+      #   href: experience.qmd
+      # - text: Coursework
+      #   href: coursework.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ziheng-zhang-202b812b1/
+      - icon: github
+        href: https://github.com/zihengzhang1211
+      - icon: envelope
+        href: mailto:zihengz1211@g.ucla.edu
+
+    search: true
+
+  page-footer:
+    center: "© 2025 Ziheng Zhang"
 project:
   type: website
   output-dir: docs
   
-website:
-  title: "zihengzhang1211.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  preview:
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: auto
 
 format:
   html:
-    theme: pulse
-    css: styles.css
+    theme: simplex
+    css: styles.css  
+    fontsize: 1em
     toc: true
+    toc-depth: 2
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
 
 editor: visual
-

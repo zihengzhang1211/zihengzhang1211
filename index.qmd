@@ -1,6 +1,6 @@
 ---
 about:
-  template: trestles
+  template: jolla
   id: about-block
   image: "img/about.jpg"
   links:
@@ -29,14 +29,23 @@ I'm passionate about mathematical and statistical methods for Bayesian modeling 
 
 # Research Interests
 
+1. **Bayesian Methods for Brain Connectivity Analysis**  
+   Development of Bayesian graphical models and causal mediation frameworks to investigate dynamic functional connectivity in neurodegenerative diseases, with a focus on frontotemporal dementia (FTD) and its genetic underpinnings.
+   
+2. **Bayesian Methods in Phase I Clinical Trials**  
+   Application of Bayesian methods to phase I clinical trial design under small sample sizes and uncertainty, enhancing the efficiency and reliability of safety evaluations in drug development.
+
+3. **Causal Inference in Neuroimaging and Neurogenetics**  
+   Modeling the mediating role of brain functional connectivity in linking genetic mutation to cognitive and behavioral outcomes using model-based causal inference methods.
+   
+4. **False Discovery Rate Control in High-Dimensional Settings**  
+   Integration of Bayesian modeling approaches into FDR control procedures for genomic data, aiming to improve interpretability, flexibility, and robustness over traditional methods.
 
 
 
 # Let's Connect
 
-<!-- Feel free to explore my [CV](cv.qmd) or reach out via: -->
-
-Feel free to explore my CV or reach out via:
+Feel free to explore my <a href="file/Ziheng_CV.pdf" style="font-weight: bold;">CV in PDF</a> or reach out via:
 
 -   **Email:** [zihengz1211\@ucla.edu](mailto:zihengz1211@g.ucla.edu)
 -   **LinkedIn:** [Ziheng Zhang](https://www.linkedin.com/in/ziheng-zhang-202b812b1/)
